@@ -1,0 +1,66 @@
+
+
+#body1{
+    background-color: grey;
+    color: gold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.line {
+    background: green;
+    height: 8px;
+    border-radius: 4px;
+    width: 0%;
+    position: fixed;
+    top: 0;
+}
+
+#palmpng{
+    text-align: center;
+}
+
+.texts1{
+    text-align: center;
+}
+#Jhvhl{
+    text-align: center;
+}
+.gglmap{
+    text-align: center;
+
+}
+div{
+text-align: center;
+
+}
+#mainh1htl{
+    text-align: center;
+    color: coral;
+}
+#b1{
+    background-color: chartreuse;
+    align-items: center;
+}
+#body2{
+    background-color: orange;
+    color: greenyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#body3{
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dubai_skyscrapers_at_night_2011.jpg/2560px-Dubai_skyscrapers_at_night_2011.jpg');
+    color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: purple;
+    color: chartreuse;
+    text-align: center;
+}
+
+#dub{
+  float: left;
+  width: 75%;
+  padding-left: 175px;
+}
